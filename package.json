@@ -1,0 +1,16 @@
+{
+  "name": "web_scrapper",
+  "version": "1.0.0",
+  "description": "amazon price finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nitesh",
+  "license": "MIT",
+  "dependencies": {
+    "@sendgrid/mail": "^7.7.0",
+    "dotenv": "^16.0.1",
+    "nightmare": "^3.0.2"
+  }
+}
